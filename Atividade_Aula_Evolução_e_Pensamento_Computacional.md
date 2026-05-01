@@ -48,3 +48,5 @@ A evolução das máquinas computacionais transformou a forma como os problemas 
 
 ### Aplicação no cotidiano
 O pensamento computacional pode ser aplicado ao organizar estudos, planejar rotinas ou resolver problemas, dividindo tarefas em etapas e seguindo uma sequência lógica.
+=======
+
